@@ -1,5 +1,5 @@
 # Simple Chat App with WebSockets and Spring Boot
-This is a basic chat application built using WebSocket technology and Spring Boot framework. It allows users to connect to a chat room, send messages, and see messages from other users in real-time.
+This is a basic chat application built using WebSocket technology and Spring Boot framework. It allows users to connect to a chat room, send messages and see messages from other users in real-time.
 
 ## Features
 - Real-time Messaging: Messages are sent and received instantly using WebSocket communication.
