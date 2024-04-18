@@ -22,3 +22,7 @@ This is a basic chat application built using WebSocket technology and Spring Boo
 - You'll see messages from other users in the chat area.
 4. Leave the Chat Room:
 - Simply close the browser tab/window to leave the chat room.
+
+  ![1](https://github.com/linimary/Chat-App/assets/125043957/351055bd-ba54-422b-84a0-0c0418802052)
+
+  ![2](https://github.com/linimary/Chat-App/assets/125043957/96c123e4-0243-4a1a-9210-4ba5207ce73e)
