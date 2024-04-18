@@ -7,11 +7,11 @@ This is a basic chat application built using WebSocket technology and Spring Boo
 - Event Notifications: Users receive notifications when someone joins or leaves the chat room.
 
 ## Technologies Used
-- Spring Boot: Backend framework for building the application.
-- WebSocket: Communication protocol for real-time messaging.
-- SockJS: WebSocket client fallback for browsers that do not support WebSocket natively.
-- STOMP: Simple Text Oriented Messaging Protocol for WebSocket communication.
-- HTML/CSS/JavaScript: Frontend development for user interface and interaction.
+- Spring Boot
+- WebSocket
+- SockJS
+- STOMP
+- HTML/CSS/JavaScript
 
 ## Usage
 1. Join the Chat Room:
